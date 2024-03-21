@@ -8,17 +8,17 @@ Imports System.Runtime.InteropServices
 
 ' Review the values of the assembly attributes
 
-<Assembly: AssemblyTitle("REYES_FIREBASE_VB")>
+<Assembly: AssemblyTitle("MATEO_FIREBASE")>
 <Assembly: AssemblyDescription("")>
 <Assembly: AssemblyCompany("")>
-<Assembly: AssemblyProduct("REYES_FIREBASE_VB")>
+<Assembly: AssemblyProduct("MATEO_FIREBASE")>
 <Assembly: AssemblyCopyright("Copyright ©  2023")>
 <Assembly: AssemblyTrademark("")>
 
 <Assembly: ComVisible(False)>
 
 'The following GUID is for the ID of the typelib if this project is exposed to COM
-<Assembly: Guid("264a8769-7151-491a-8350-2936c0a1a9fc")>
+<Assembly: Guid("4a247bf3-afed-4a4c-8de1-08d185433c47")>
 
 ' Version information for an assembly consists of the following four values:
 '
