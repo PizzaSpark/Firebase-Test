@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "REYES_FIREBASE_VB", "REYES_FIREBASE_VB\REYES_FIREBASE_VB.vbproj", "{3AB1F6C9-3412-4F0F-9EEE-C46AC60187EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3AB1F6C9-3412-4F0F-9EEE-C46AC60187EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AB1F6C9-3412-4F0F-9EEE-C46AC60187EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AB1F6C9-3412-4F0F-9EEE-C46AC60187EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AB1F6C9-3412-4F0F-9EEE-C46AC60187EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {882F2C94-7281-4C89-98D3-FE497D0D8AB0}
+	EndGlobalSection
+EndGlobal
